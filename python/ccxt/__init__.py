@@ -261,6 +261,7 @@ exchanges = [
     'coinone',
     'coinspot',
     'cointiger',
+    'coinzip',
     'coolcoin',
     'coss',
     'crex24',
