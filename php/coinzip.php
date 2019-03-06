@@ -51,9 +51,9 @@ class coinzip extends Exchange {
             ),
             'urls' => array (
                 'logo' => 'https://user-images.githubusercontent.com/786083/53869301-ecfc2200-4032-11e9-80bc-42eda484076f.png',
-                'api' =>  'https://coinzip.co',
-                'www' =>  'https://coinzip.co',
-                'documents' =>  'https://coinzip.co/documents/api_v2',
+                'api' =>  'https://staging.coinzip.co',
+                'www' =>  'https://staging.coinzip.co',
+                'documents' =>  'https://staging.coinzip.co/documents/api_v2',
             ),
             'requiredCredentials' => array (
                 'apiKey' =>  true,
